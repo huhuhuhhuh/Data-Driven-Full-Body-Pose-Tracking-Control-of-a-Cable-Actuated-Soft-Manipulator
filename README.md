@@ -70,7 +70,7 @@ Data-Driven Full-Body Pose Tracking Control of a Cable-Actuated Soft Manipulator
 │   └── search_space.yaml
 │
 ├── data/
-│   └── README.md                   # Data format documentation
+│   └── CASM.csv                   # Data format documentation
 │
 ├── environment.yml
 └── README.md
